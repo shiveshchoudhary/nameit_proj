@@ -4,6 +4,6 @@
     A simple project to get naming hints based on a keyword
     <br>
     
-    ![Output](https://tenor.com/view/gif-22751151)
+    ![Output](https://media.giphy.com/media/Zugak3mCrQCvbFrpHa/giphy.gif)
     
 </p>
